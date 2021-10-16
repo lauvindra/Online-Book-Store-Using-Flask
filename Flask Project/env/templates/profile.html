@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block body %}
+{% if isActive %}
+<h1>>The {{username}} is logged in </h1>
+{% else %}
+<h1>The {{username}} is logged out</h1>
+{% endif %}
+{% endblock %}
+

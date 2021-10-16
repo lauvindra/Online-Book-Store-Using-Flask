@@ -21,7 +21,7 @@ git clone https://github.com/lauvindra/Online-Book-Store-Using-Flask.git
 * Use Object-relational mapping(ORM) for converting data between incompatible type systems using object-oriented programming technique.
 
 # 3. Flask
-<img src="Images/FlaskPic.png" width="450" height="250">
+<img src="Images/FlaskPic.png" width="400" height="200">
 
 * Flask is a microframework, which means it is more focused on simplicity and less on functions.
 * Microframeworks lack functionality but they can be extended with databases and templating engines.
@@ -29,6 +29,8 @@ git clone https://github.com/lauvindra/Online-Book-Store-Using-Flask.git
 * Jinja2 template engine is a text-based template language and thus can be used to generate any markup as well as source code. 
 
 # 3. SQLAlchemy
+<img src="Images/sqlalchemy.png" width="400" height="200">
+
 * SQLAlchemy is the Python SQL toolkit and Object Relational Mapper that gives application developers the full power and flexibility of SQL.
 * Instead of hiding away SQL and object relational details behind a wall of automation, SQLAlchemy's overall approaches all processes are fully exposed within a series of composable, transparent tools.
 * A relationally-oriented query system, exposing the full range of SQL's capabilities explicitly, including joins, subqueries, correlation, and most everything else, in terms of the object mode

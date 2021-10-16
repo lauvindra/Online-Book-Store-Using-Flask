@@ -1,5 +1,5 @@
 # Online-Book-Store-Using-Flask
-<img src=".png" width="450" height="250">
+<img src="Images/BooksAndCoffee.png" width="450" height="250">
 
 
 # 1.Introduction
@@ -21,7 +21,7 @@ git clone https://github.com/lauvindra/Online-Book-Store-Using-Flask.git
 * Use Object-relational mapping(ORM) for converting data between incompatible type systems using object-oriented programming technique.
 
 # 3. Flask
-<img src=".png" width="450" height="250">
+<img src="Images/FlaskPic.png" width="450" height="250">
 
 * Flask is a microframework, which means it is more focused on simplicity and less on functions.
 * Microframeworks lack functionality but they can be extended with databases and templating engines.
@@ -35,19 +35,27 @@ git clone https://github.com/lauvindra/Online-Book-Store-Using-Flask.git
 
 # 4.Online Book Store 
 These are the implementation of Flask together with a database using Flask SQLAlchemy.
-<img src=".png" width="450" height="250">
+
+Main Page
+
+<img src="Images/MainPage.png" width="700" height="250">
 
 
-<img src=".png" width="450" height="250">
+Add Books
+
+<img src="Images/Addbook.png" width="700" height="250">
 
 
-<img src=".png" width="450" height="250">
+Update and Delete Books
+
+<img src="Images/UpdateDeleteBooks.png" width="700" height="250">
+
 
 
 
 
 
 # 5. References 
-https://flask.palletsprojects.com/en/2.0.x/
-https://ncube.com/blog/top-python-web-frameworks-2020
-https://www.sqlalchemy.org/
+* https://flask.palletsprojects.com/en/2.0.x/
+* https://ncube.com/blog/top-python-web-frameworks-2020
+* https://www.sqlalchemy.org/

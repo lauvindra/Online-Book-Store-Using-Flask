@@ -33,8 +33,21 @@ git clone https://github.com/lauvindra/Online-Book-Store-Using-Flask.git
 * Instead of hiding away SQL and object relational details behind a wall of automation, SQLAlchemy's overall approaches all processes are fully exposed within a series of composable, transparent tools.
 * A relationally-oriented query system, exposing the full range of SQL's capabilities explicitly, including joins, subqueries, correlation, and most everything else, in terms of the object mode
 
+# 4.Online Book Store 
+These are the implementation of Flask together with a database using Flask SQLAlchemy.
+<img src=".png" width="450" height="250">
 
-# 4. References 
+
+<img src=".png" width="450" height="250">
+
+
+<img src=".png" width="450" height="250">
+
+
+
+
+
+# 5. References 
 https://flask.palletsprojects.com/en/2.0.x/
 https://ncube.com/blog/top-python-web-frameworks-2020
 https://www.sqlalchemy.org/
